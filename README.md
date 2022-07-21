@@ -1,4 +1,4 @@
-  # LanguageDetector :wink:
+  # LanguageDetector  :wink :smile
 A simple line of code to detect  language used in any text
 
 
